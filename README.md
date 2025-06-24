@@ -1,44 +1,29 @@
-JAVA-DSA-Bootcamp
+#JAVA-DSA-Bootcamp
 This repository contains my daily progress through the Java + Data Structures and Algorithms Bootcamp by Kunal Kushwaha.
 I'm documenting my learning journey, uploading Java code, notes, and solutions as I progress day by day.
 
 The bootcamp covers foundational and advanced topics in both Java programming and Data Structures & Algorithms (DSA).
 It's designed for beginners and intermediate learners who want to strengthen their problem-solving skills and Java fundamentals.
 
-Key Learning Areas:
-Java Programming (Syntax, OOP, etc.)
+###Key Learning Areas:
+-Java Programming (Syntax, OOP, etc.)
+-Arrays, Strings
+-Functions and Recursion
+-Searching and Sorting
+-Binary Search & Divide and Conquer
+-Linked Lists, Trees, Graphs
+-Stack, Queue, Heap
+-Backtracking and Dynamic Programming
 
-Arrays, Strings
-
-Functions and Recursion
-
-Searching and Sorting
-
-Binary Search & Divide and Conquer
-
-Linked Lists, Trees, Graphs
-
-Stack, Queue, Heap
-
-Backtracking and Dynamic Programming
-
-📌 Topics Covered
+###📌 Topics Covered
 ⏳ Java Setup & IDE (Eclipse)
-
 ⏳ Java Basics (Syntax, Input, Output)
-
 ⏳ If-Else, Loops
-
 ⏳ Functions and Parameters
-
 ⏳ Recursion Basics
-
 ⏳ Array and String Manipulation
-
 ⏳ Searching & Sorting
-
 ⏳ Object-Oriented Programming
-
 ⏳ Linked Lists, Trees, Graphs
 
 🙋 About Me

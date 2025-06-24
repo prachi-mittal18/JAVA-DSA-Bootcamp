@@ -1,0 +1,24 @@
+# Ignore compiled class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# Output folders
+bin/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
